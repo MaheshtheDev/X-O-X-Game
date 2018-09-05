@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532609623 source:c:\users\mahesh.sv\desktop\programme's\c project\xox-game\main.cpp
+	<iostream>
+	<cstdlib>
+
+1535536735 source:a:\programme's\c project\xox-game\main.cpp
+	<iostream>
+	<cstdlib>
+
